@@ -15,7 +15,7 @@ import java.awt.Font;
 
 
 /*
- * Watch this Video from 14:00 onwards: https://www.youtube.com/watch?v=-hpX9oEvoXc
+ * 
  */
 public class UIMain {
 

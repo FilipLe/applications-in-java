@@ -211,6 +211,7 @@ public class EnergyUsage {
 		 * End of Placeholders for user input: Age, Weight, Height
 		 */
 		
+		
 		/*
 		 * Calculation function
 		 */

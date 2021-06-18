@@ -15,7 +15,7 @@ import java.awt.Font;
 
 
 /*
- * 
+ * Main Screen
  */
 public class UIMain {
 

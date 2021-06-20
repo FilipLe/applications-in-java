@@ -15,8 +15,6 @@ import com.github.cliftonlabs.json_simple.Jsoner;
 
 /*
  * For the ADMIN only
- * Lines 62-73 --> deleting users
- * Go to lines 117-142 --> DELETING USERS
  * 
  */
 public class UserTableModel extends AbstractTableModel{
